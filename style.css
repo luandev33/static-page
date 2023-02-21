@@ -1,0 +1,248 @@
+body {
+    background-image: url(https://media-public.canva.com/W8rIk/MAD3nOW8rIk/1/s3.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #000000;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    line-height: normal;
+    position: relative;
+    width: auto;
+    height: auto;
+    padding: 30px;
+}
+
+.intro {
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.cliq {
+    text-indent: 0%;
+    color: #ffffff;
+    background-position: center;
+
+}
+
+.evo {
+    text-align: center;
+}
+
+
+nav {
+
+    width: auto;
+
+    display: flex;
+
+    background-color: #000000d8;
+
+    color: #ffffff;
+
+}
+
+nav p {
+
+    color: #ffffff;
+
+    margin: auto 20px auto 40px;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+}
+
+nav li {
+
+    float: left;
+
+    list-style: none;
+
+    margin-left: 20px;
+
+}
+
+.logo-nav {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3%;
+    width: 80%;
+    margin-left: 10%;
+    padding: 0px;
+    background-color: #000000d8;
+    position: relative;
+    align-items: center;
+    margin-bottom: 4%;
+}
+
+
+h3 {
+    padding-top: 5%;
+}
+
+.compre {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #8DC540;
+    padding: 1em 1em 1em 1em;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    border: none;
+    margin-left: 40%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    cursor: pointer;
+
+}
+
+.compre:hover {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #8DC540;
+    padding: 1em 1em 1em 1em;
+    border-radius: 10px;
+    width: 151px;
+    height: 51px;
+
+
+    color: white;
+    text-align: center;
+    border: none;
+    margin-left: 40%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.contb {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-position: center;
+    margin-right: 30%;
+
+}
+
+.video {
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+}
+
+.card {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+
+}
+
+.limit {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+}
+
+.manimg {
+    padding-top: 5%;
+}
+
+.manimg img {
+    width: 100%;
+    max-width: 700px;
+}
+
+.p-text {
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    padding: 2%;
+}
+
+.depoiment {
+    background-color: #443f3fcc;
+    width: 100%;
+    min-height: 100%;
+    padding: 3%;
+}
+
+
+.dpoiment-title {
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dpoiment-title h2 {
+    font-weight: 600;
+    letter-spacing: 5px;
+    color: #f15743;
+    line-height: 1.2;
+}
+
+.testimonial-text {
+    color: #fff;
+}
+
+.namesd {
+    color: #e9d1d1;
+}
+
+.testimonial-box {
+    text-align: center;
+}
+
+.testimonial-image {
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+}
+
+.testimonial-text {
+    font-size: 16px;
+    margin: 20px 0;
+}
+
+.star-rating {
+    margin: 20px 0;
+    font-size: 24px;
+    color: #ffc107;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer a {
+    color: #fff;
+    font-size: 20px;
+    margin-right: 20px;
+}
